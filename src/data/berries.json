@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Blackberry",
+        "dirname": "blackberries",
+        "image": "container-of-blackberries.jpg"
+    },
+    {
+        "name": "Blueberry",
+        "dirname": "blueberries",
+        "image": "blueberry.jpg"
+    },
+    {
+        "name": "Boysenberry",
+        "dirname": "boysenberries",
+        "image": "organic-boysenberry.jpg"
+    },    
+    {
+        "name": "Raspberry",
+        "dirname": "raspberries",
+        "image": "raspberries_closeup.jpg"
+    },
+    {
+        "name": "Acai Berry",
+        "dirname": "acaiberries",
+        "image": "Acai-Berries.jpg"
+    },
+    {
+        "name": "Cloudberry",
+        "dirname": "cloudberries",
+        "image": "cloudberries.jpg"
+    },
+    {
+        "name": "Gooseberry",
+        "dirname": "gooseberries",
+        "image": "gooseberries.jpg"
+    },
+    {
+        "name": "Red Mulberries",
+        "dirname": "red_mulberries",
+        "image": "red_mulberries.jpg"
+    },
+    {
+        "name": "Salmonberry",
+        "dirname": "salmonberries",
+        "image": "salmonberries.jpg"
+    }
+]
