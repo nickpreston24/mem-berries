@@ -1,15 +1,22 @@
 {
-  "main.css": "/mem-berries/static/css/main.b3b75626.chunk.css",
-  "main.js": "/mem-berries/static/js/main.eb5548e0.chunk.js",
-  "main.js.map": "/mem-berries/static/js/main.eb5548e0.chunk.js.map",
+  "main.css": "/mem-berries/static/css/main.1f4336a7.chunk.css",
+  "main.js": "/mem-berries/static/js/main.7789eeb1.chunk.js",
+  "main.js.map": "/mem-berries/static/js/main.7789eeb1.chunk.js.map",
   "runtime~main.js": "/mem-berries/static/js/runtime~main.6900f0ea.js",
   "runtime~main.js.map": "/mem-berries/static/js/runtime~main.6900f0ea.js.map",
   "static/js/2.f1320c0d.chunk.js": "/mem-berries/static/js/2.f1320c0d.chunk.js",
   "static/js/2.f1320c0d.chunk.js.map": "/mem-berries/static/js/2.f1320c0d.chunk.js.map",
   "index.html": "/mem-berries/index.html",
-  "precache-manifest.168382f2fb5f625016bf62db794ffdba.js": "/mem-berries/precache-manifest.168382f2fb5f625016bf62db794ffdba.js",
+  "precache-manifest.10e8fead21bcf68ed727c0fcae82e8d4.js": "/mem-berries/precache-manifest.10e8fead21bcf68ed727c0fcae82e8d4.js",
   "service-worker.js": "/mem-berries/service-worker.js",
-  "static/css/main.b3b75626.chunk.css.map": "/mem-berries/static/css/main.b3b75626.chunk.css.map",
+  "static/css/main.1f4336a7.chunk.css.map": "/mem-berries/static/css/main.1f4336a7.chunk.css.map",
+  "static/media/Acai-Berries.jpg": "/mem-berries/static/media/Acai-Berries.d76e44e4.jpg",
   "static/media/blueberry.jpg": "/mem-berries/static/media/blueberry.40904b07.jpg",
-  "static/media/container-of-blackberries.jpg": "/mem-berries/static/media/container-of-blackberries.ab56d77b.jpg"
+  "static/media/cloudberries.jpg": "/mem-berries/static/media/cloudberries.2789986d.jpg",
+  "static/media/container-of-blackberries.jpg": "/mem-berries/static/media/container-of-blackberries.ab56d77b.jpg",
+  "static/media/gooseberries.jpg": "/mem-berries/static/media/gooseberries.c52f889d.jpg",
+  "static/media/organic-boysenberry.jpg": "/mem-berries/static/media/organic-boysenberry.a1605fea.jpg",
+  "static/media/raspberries_closeup.jpg": "/mem-berries/static/media/raspberries_closeup.55ad5ac9.jpg",
+  "static/media/red_mulberries.jpg": "/mem-berries/static/media/red_mulberries.28d5666f.jpg",
+  "static/media/salmonberries.jpg": "/mem-berries/static/media/salmonberries.7c7880b0.jpg"
 }
