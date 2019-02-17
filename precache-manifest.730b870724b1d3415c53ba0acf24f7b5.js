@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/mem-berries/static/js/runtime~main.6900f0ea.js"
   },
   {
-    "revision": "dc11cb15da8421f6fde5",
-    "url": "/mem-berries/static/js/main.dc11cb15.chunk.js"
+    "revision": "80ef5c38e8fff33e305d",
+    "url": "/mem-berries/static/js/main.80ef5c38.chunk.js"
   },
   {
     "revision": "063ce5bc9f8a30d66648",
     "url": "/mem-berries/static/js/2.063ce5bc.chunk.js"
   },
   {
-    "revision": "dc11cb15da8421f6fde5",
-    "url": "/mem-berries/static/css/main.bc2823af.chunk.css"
+    "revision": "80ef5c38e8fff33e305d",
+    "url": "/mem-berries/static/css/main.d9d0b29f.chunk.css"
   },
   {
-    "revision": "718f7e3f1b3ba029bb65695cafc28d48",
+    "revision": "8039eb33e1d33ec699cabf047dd8a49d",
     "url": "/mem-berries/index.html"
   }
 ];
