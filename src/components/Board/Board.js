@@ -18,13 +18,10 @@ export class Board extends Component {
     }
 
     onClick(index) {        
-        // console.info('index: ', index);
-        // console.info('image: ', this.state.cards[index].image)
-        // console.info('points: ', this.state.cards[index].points)
+        
         let current = this.state.cards[index];
         let {points, image} = current;       
-        // console.log('current card: ', current);
-
+        
         if(current.visited)
         {
             // alert('GAME OVER');
@@ -51,6 +48,7 @@ export class Board extends Component {
 
     renderSquare(index, card) {
         let image = card.image;
+        console.log('i:', index)
         return <Card 
             image={image} 
             value={index} 
@@ -60,21 +58,27 @@ export class Board extends Component {
     }
 
     render() {
-        const ROWS = Math.floor(this.state.cards.length / MAX_COLUMNS) + 1; //todo: figure out a smart way to get the number of rows w/o going over, i.e. 8 means 3 rows just like 9.
-        console.log('max rows allowed: ', ROWS);
+        
         const status = `Current score: ${this.state.score}`;
-        // console.log('cards: ', this.state.cards);
+        
         return (
         <div>
             <div className="status">{status}</div>
-
-            {this.state.cards.map((card, index) => {
-                return (index % ROWS < 0) ?
-                    <div className="board-row">
-                        {this.renderSquare(index, card)}
-                    </div>
-                    : this.renderSquare(index, card);
-            })}
+            {this.arrangeTiles()}
         </div>);
+    }
+
+    arrangeTiles() {
+        const ROWS = Math.floor(this.state.cards.length / MAX_COLUMNS); //todo: figure out a smart way to get the number of rows w/o going over, i.e. 8 means 3 rows just like 9.
+        console.log('max rows allowed: ', ROWS);
+        return this.state.cards.map((card, index) => {
+            let makeNewRow = index % ROWS + 1;
+            console.info('make new row?', makeNewRow);
+            return (makeNewRow === ROWS) ?
+                <div key={index} className="board-row">
+                    {this.renderSquare(index, card)}
+                </div>
+                : this.renderSquare(index, card);
+        });
     }
 }
