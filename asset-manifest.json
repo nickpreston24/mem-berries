@@ -1,13 +1,15 @@
 {
-  "main.css": "/mem-berries/static/css/main.5b3385d8.chunk.css",
-  "main.js": "/mem-berries/static/js/main.39a5faa6.chunk.js",
-  "main.js.map": "/mem-berries/static/js/main.39a5faa6.chunk.js.map",
+  "main.css": "/mem-berries/static/css/main.b3b75626.chunk.css",
+  "main.js": "/mem-berries/static/js/main.eb5548e0.chunk.js",
+  "main.js.map": "/mem-berries/static/js/main.eb5548e0.chunk.js.map",
   "runtime~main.js": "/mem-berries/static/js/runtime~main.6900f0ea.js",
   "runtime~main.js.map": "/mem-berries/static/js/runtime~main.6900f0ea.js.map",
   "static/js/2.f1320c0d.chunk.js": "/mem-berries/static/js/2.f1320c0d.chunk.js",
   "static/js/2.f1320c0d.chunk.js.map": "/mem-berries/static/js/2.f1320c0d.chunk.js.map",
   "index.html": "/mem-berries/index.html",
-  "precache-manifest.6659c7660b256de3481d902047f5be77.js": "/mem-berries/precache-manifest.6659c7660b256de3481d902047f5be77.js",
+  "precache-manifest.168382f2fb5f625016bf62db794ffdba.js": "/mem-berries/precache-manifest.168382f2fb5f625016bf62db794ffdba.js",
   "service-worker.js": "/mem-berries/service-worker.js",
-  "static/css/main.5b3385d8.chunk.css.map": "/mem-berries/static/css/main.5b3385d8.chunk.css.map"
+  "static/css/main.b3b75626.chunk.css.map": "/mem-berries/static/css/main.b3b75626.chunk.css.map",
+  "static/media/blueberry.jpg": "/mem-berries/static/media/blueberry.40904b07.jpg",
+  "static/media/container-of-blackberries.jpg": "/mem-berries/static/media/container-of-blackberries.ab56d77b.jpg"
 }
