@@ -1,13 +1,13 @@
 {
-  "main.css": "/mem-berries/static/css/main.d9d0b29f.chunk.css",
-  "main.js": "/mem-berries/static/js/main.80ef5c38.chunk.js",
-  "main.js.map": "/mem-berries/static/js/main.80ef5c38.chunk.js.map",
+  "main.css": "/mem-berries/static/css/main.5b3385d8.chunk.css",
+  "main.js": "/mem-berries/static/js/main.08483008.chunk.js",
+  "main.js.map": "/mem-berries/static/js/main.08483008.chunk.js.map",
   "runtime~main.js": "/mem-berries/static/js/runtime~main.6900f0ea.js",
   "runtime~main.js.map": "/mem-berries/static/js/runtime~main.6900f0ea.js.map",
-  "static/js/2.063ce5bc.chunk.js": "/mem-berries/static/js/2.063ce5bc.chunk.js",
-  "static/js/2.063ce5bc.chunk.js.map": "/mem-berries/static/js/2.063ce5bc.chunk.js.map",
+  "static/js/2.b2f5ab12.chunk.js": "/mem-berries/static/js/2.b2f5ab12.chunk.js",
+  "static/js/2.b2f5ab12.chunk.js.map": "/mem-berries/static/js/2.b2f5ab12.chunk.js.map",
   "index.html": "/mem-berries/index.html",
-  "precache-manifest.730b870724b1d3415c53ba0acf24f7b5.js": "/mem-berries/precache-manifest.730b870724b1d3415c53ba0acf24f7b5.js",
+  "precache-manifest.eccfec05483d8dd7757db065463c366f.js": "/mem-berries/precache-manifest.eccfec05483d8dd7757db065463c366f.js",
   "service-worker.js": "/mem-berries/service-worker.js",
-  "static/css/main.d9d0b29f.chunk.css.map": "/mem-berries/static/css/main.d9d0b29f.chunk.css.map"
+  "static/css/main.5b3385d8.chunk.css.map": "/mem-berries/static/css/main.5b3385d8.chunk.css.map"
 }
