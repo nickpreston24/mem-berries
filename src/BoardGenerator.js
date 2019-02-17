@@ -8,23 +8,24 @@ const {
 const points = randomSpan(1, 9);
 
 export class BoardGenerator {
-    makeBoard() {
 
+    makeBoard() {
         let board = [];
         let count = 0;
 
         berries.forEach(berry => {
-            
             let {
                 1: image,
                 0: name
             } = berry;
-            
+
             board.push({
                 name,
                 image,
                 points: points[count],
             });
+
+            count++;
         });
 
         return board;
