@@ -27,7 +27,7 @@ export class Board extends Component {
 
         if(current.visited)
         {
-            alert('GAME OVER');
+            // alert('GAME OVER');
             this.setState({score : 0})
         }
 
