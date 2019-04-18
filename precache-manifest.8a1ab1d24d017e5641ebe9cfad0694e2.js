@@ -9,11 +9,11 @@ self.__precacheManifest = [
   },
   {
     "revision": "6900f0ea2168e1e39f6e",
-    "url": "/mem-berries/static/js/runtime~main.6900f0ea.js"
+    "url": "/mem-berries/static/js/runtime~main.a8da3d2a.js"
   },
   {
-    "revision": "f1320c0db08a9d99840a",
-    "url": "/mem-berries/static/js/2.f1320c0d.chunk.js"
+    "revision": "80f22c1971eb49947ca0",
+    "url": "/mem-berries/static/js/2.f8e25003.chunk.js"
   },
   {
     "revision": "40904b070b61ef3585d5cf01827b69d7",
@@ -29,7 +29,7 @@ self.__precacheManifest = [
   },
   {
     "revision": "7789eeb1707f39dff424",
-    "url": "/mem-berries/static/js/main.7789eeb1.chunk.js"
+    "url": "/mem-berries/static/js/main.9fbbf7fc.chunk.js"
   },
   {
     "revision": "d76e44e45f99b624075bd744c84a1e0d",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/mem-berries/static/media/raspberries_closeup.55ad5ac9.jpg"
   },
   {
-    "revision": "0673d8a1d1c32c4dac8199bf0551326c",
+    "revision": "c5e34a6dfb2a752c2ecf0db0a9d65c3f",
     "url": "/mem-berries/index.html"
   }
 ];
