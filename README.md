@@ -1,4 +1,4 @@
-# [!Memberries](https://mikepreston17.github.io/mem-berries/)
+# [Memberries](https://mikepreston17.github.io/mem-berries/)
 
 To Play:
 
